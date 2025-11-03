@@ -1,3 +1,3 @@
-- 👨‍💻 I am a front-end development engineer and an open source enthusiast
+- 👨‍💻 I am Hugo Couchouron, a Doctor in psychoanalysis for a long and large! ethic! ; a front-end development engineer and an open source enthusiast
 - 📚 I keep paying attention to Python/Golang
 - 🛠️ Check my website https://lwebapp.com. This website mainly provides online tools, development tutorials, software resources and technical blogs.
